@@ -141,3 +141,10 @@ figure img {
     margin-top: -18px;
     font-size: small;
 }
+
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #e5e7eb;
+    padding: 16px
+}
