@@ -75,3 +75,13 @@ p, h2 {
     flex-direction: column;
     text-align: center;
 }
+
+.information-container {
+    display: flex;
+    justify-content: center;
+}
+
+figure img {
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
